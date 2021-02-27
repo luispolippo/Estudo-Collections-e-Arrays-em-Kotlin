@@ -9,4 +9,4 @@ Estudo de Collections e Arrays do Bootcamp Everis Kotlin Developer na Digital In
 * [DoubleArray](src/main/kotlin/one/digitalinnovation/collections/TesteDoubleArray.kt)
 
 ### Operações com Arrays
-* [Max, Min, Average e Filter](src/main/kotlin/one/digitalinnovation/collections/TesteOperacoes.kt)
+* [Max, Min, Average, Filter, Count, Find e Any](src/main/kotlin/one/digitalinnovation/collections/TesteOperacoes.kt)

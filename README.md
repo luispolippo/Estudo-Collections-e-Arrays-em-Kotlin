@@ -4,3 +4,4 @@ Estudo de Collections e Arrays do Bootcamp Everis Kotlin Developer na Digital In
 
 ### Exemplos
 * [IntArray](src/main/kotlin/one/digitalinnovation/collections/TesteIntArray.kt)
+* [IntArrayOf](src/main/kotlin/one/digitalinnovation/collections/TesteIntArrayOf.kt)

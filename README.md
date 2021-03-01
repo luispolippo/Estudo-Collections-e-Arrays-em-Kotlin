@@ -17,3 +17,7 @@ Estudo de Collections e Arrays do Bootcamp Everis Kotlin Developer na Digital In
 ### Coleções Mutáveis
 * [MutableListOf e MutableSetOf](src/main/kotlin/one/digitalinnovation/collections/TesteColecoesMutaveis.kt)
 * [MutableMap](src/main/kotlin/one/digitalinnovation/collections/TesteMutableMap.kt)
+
+### Extension Functions
+* [Criação das Extensions Functions](src/main/kotlin/one/digitalinnovation/collections/FuncoesEstendidas.kt)
+* [Utilização das Extension Functions](src/main/kotlin/one/digitalinnovation/collections/TesteFuncoesEstendidas.kt)
